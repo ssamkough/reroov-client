@@ -1,6 +1,6 @@
-# Livement Client ⏺️
+# Reroov Client ⏺️
 
-Client for Livement. App lets you compete with other people live on a certain topic. Works similar to Kahoot, Quizlet Live, except with more options and for free!
+Client for Reroov. App lets you compete with other people live on a certain topic. Works similar to Kahoot, Quizlet Live, except with more options and for free!
 
 ## Technologies 📟
 
